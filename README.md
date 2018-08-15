@@ -1,0 +1,1 @@
+This is a demo Fiori app showing how to create a Page Level Breakout in a List Report. For more info see: [Using Network Graph in a List Report Fiori Template](https://blogs.sap.com/2018/07/16/using-network-graph-in-a-list-report-fiori-template/).

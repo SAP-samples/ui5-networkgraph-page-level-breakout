@@ -1,0 +1,23 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:ng="sap.suite.ui.commons.networkgraph"
+          controllerName="BlogTest.component.controller.Default" >
+	<App>
+		<pages>
+			<Page id="group" title="{i18n>groupTitle}">
+				<content>
+					<ng:Graph id="networkGraph" nodes="{/ZBRQ13_VV_NG_NODES}" lines="{/ZBRQ13_VV_NG_LINES}">
+						<ng:nodes>
+							<ng:Node key="{Id}" title="{Title}" shape="Box" attributes="{path:'to_attribute', templateShareable:false}" status="{Status}">
+								<ng:attributes>
+									<ng:ElementAttribute label="{LabelC}" value="{Value}" />
+								</ng:attributes>
+							</ng:Node>
+						</ng:nodes>
+						<ng:lines>
+							<ng:Line from="{IdFrom}" to="{IdTo}" />
+						</ng:lines>
+					</ng:Graph>
+				</content>
+			</Page>
+		</pages>
+	</App>
+</mvc:View>
