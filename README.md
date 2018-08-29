@@ -1,4 +1,4 @@
-# ui5-networkgraph-page-level-breakout
+# UI5 Network Graph - Page Level Breakout
 
 ## Description
 
