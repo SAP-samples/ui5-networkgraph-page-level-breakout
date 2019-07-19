@@ -26,4 +26,4 @@ This application will be update from time to time if some of the APIs change. If
 
 Copyright (c) 2018 SAP SE or an SAP affiliate company. All rights reserved.
 
-This file is licensed under the [SAP Sample Code License](/LICENSE.txt).
+This file is licensed under the [SAP Sample Code License](/LICENSE).
