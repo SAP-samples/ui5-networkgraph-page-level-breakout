@@ -6,7 +6,7 @@ A List Report Fiori application with Page Level breakout. This is just a demo ap
 
 ## Requirements
 
-This application is based on Fiori Elements and hence it has the same requirements. Namely it's:
+This application is based on Fiori Elements and hence it has the same requirements. Namely:
  - SAP Web IDE 1.17 or higher
  - SAP NetWeaver 7.5 SP01 or higher
 
@@ -24,6 +24,4 @@ This application will be update from time to time if some of the APIs change. If
 
 ## License
 
-Copyright (c) 2018 SAP SE or an SAP affiliate company. All rights reserved.
-
-This file is licensed under the [SAP Sample Code License](/LICENSE).
+Copyright (c) 2018 SAP SE or an SAP affiliate company. All rights reserved. This file is licensed under the [SAP Sample Code License](/LICENSE).
